@@ -56,7 +56,7 @@ Esta extensão permite que os colchetes correspondentes sejam identificados com 
 
 Clique [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 
 #### ***Code Runner*** 
-<img src="https://user-images.githubusercontent.com/77402918/104948821-aac8f900-599c-11eb-97a2-8b2f3c991c31.png" width="150px">
+<img src="https://user-images.githubusercontent.com/77402918/104950340-40658800-599f-11eb-9480-998d1636d04b.png" width="150px">
 
 Execute snippet de código ou arquivo de código para várias linguagens: C, C ++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT / CMD, BASH / SH, F # Script, F # ( .NET Core), C # Script, C # (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran e comando personalizado.
 
@@ -90,7 +90,7 @@ Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades ú
 Sinta-se à vontade para fazer perguntas, postar problemas, enviar solicitação de pull e solicitar novos recursos.
 Para obter mais informações sobre este projeto e como usar esta extensão, verifique nossa documentação.
 
-Clique [Microsoft Visual Studio Live Share](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) 
+Clique [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) 
 
 #### ***Material Icon Theme***
 <img src="https://user-images.githubusercontent.com/77402918/104949809-51fa6000-599e-11eb-9dd6-fbccf6058f74.png" width="150px">
@@ -115,7 +115,8 @@ Essa extensão usa o novo FileSystemProvider, adicionado na versão 1.23.0 do Vi
 
 Clique [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs) 
 ## **Git**
-<BR />
+<img src="https://user-images.githubusercontent.com/77402918/104950647-cd104600-599f-11eb-9d69-26415fa3faba.png" width="150px">
+<br />
 Git pronuncia-se /git/ (ou pronuncia-se /djit/ em inglês britânico) é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo (Exemplo: alguns livros digitais são disponibilizados no GitHub e escrito aos poucos publicamente). O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
 
 Cada diretório de trabalho do Git é um repositório com um histórico completo e habilidade total de acompanhamento das revisões, não dependente de acesso a uma rede ou a um servidor central. O Git também facilita a reprodutibilidade científica em uma ampla gama de disciplinas, da ecologia à bioinformática, arqueologia à zoologia.
@@ -124,14 +125,16 @@ O Git é um software livre, distribuído sob os termos da versão 2 da GNU Gener
 
 Clique [GIT](https://git-scm.com/) 
 ## **Git Hub**
-<BR />
+<img src="https://user-images.githubusercontent.com/77402918/104950747-ffba3e80-599f-11eb-88c9-7df2a785c37c.png" width="150px">
+<br />
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
 
 O GitHub é mundialmente usado e chega a ter mais de 36 milhões de usuários ativos mundialmente contribuindo em projetos comerciais ou pessoais. Hoje o GitHub abriga mais de 100 milhões de projetos,alguns deles que são conhecidos mundialmente. WordPress, GNU/Linux, Atom, Electron. GitHub também oferece suporte ao recurso de organizacão que é amplamente utilizado por aqueles que querem uma escala maior para seus projetos. Na maioria das vezes, o recurso é usado por empresas já existentes como a Google, Microsoft e WordPress.
 
 Clique [Git Hub](https://github.com/) 
 ## **Java**
-<BR />
+<img src="https://user-images.githubusercontent.com/77402918/104950873-40b25300-59a0-11eb-82e8-6dc7bc365d37.png" width="150px">
+<br />
 Java é o ambiente computacional, ou plataforma, criada pela empresa estadunidense Sun Microsystems, e vendida para a Oracle depois de alguns anos. A plataforma permite desenvolver programas utilizando a linguagem de programação Java. Uma grande vantagem da plataforma é a de não estar presa a um único sistema operacional ou hardware, pois seus programas rodam através de uma máquina virtual que pode ser emulada em qualquer sistema que suporte a linguagem C++.
 <BR />
 <BR />
@@ -139,7 +142,8 @@ Java é o ambiente computacional, ou plataforma, criada pela empresa estaduniden
 Clique [Java](https://www.java.com/pt-BR/) 
 
 ## **Android**
-<BR />
+<img src="https://user-images.githubusercontent.com/77402918/104950527-9803f380-599f-11eb-8fc6-c3d4dc3ccfd4.png" width="150px">
+<br />
 Android é um sistema operacional (SO) baseado no núcleo Linux, desenvolvido por um consórcio de desenvolvedores conhecido como Open Handset Alliance, sendo o principal colaborador o Google.[8] Com uma interface de usuário baseada na manipulação direta, o Android é projetado principalmente para dispositivos móveis com tela sensível ao toque como smartphones e tablets; com interface específica para TV, carros (Android Auto) e relógios de pulso (Android Wear). O sistema operacional utiliza-se da tela sensível ao toque para que o usuário possa manipular objetos virtuais, assim como um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sensível ao toque, também é utilizado em consoles de videogames, câmeras digitais, computadores e outros dispositivos eletrônicos.
 
 O Android é o sistema operacional móvel mais utilizado do mundo, e, em 2013, possuía a maior percentagem das vendas mundiais de SO móveis.Dispositivos com o sistema Android vendem mais que eletrônicos com Windows, iOS e Mac OS X combinados, com vendas em 2012, 2013 e 2014 perto da base de computadores do mundo.Em julho de 2013, a loja de aplicativos Google Play possuía mais de 1 milhão de aplicativos disponíveis, baixados mais de 50 bilhões de vezes.Uma pesquisa com programadores entre abril e maio de 2013 revelou que 71% dos programadores para sistemas móveis desenvolviam para o Android.Na conferência anual Google I/O de 2014, a companhia revelou que existem mais de 1 bilhão de usuários Android ativos. Em junho de 2013, este número era de 538 milhões.O maior número de usuários no mundo também reflete no número de ataques de hackers no sistema, com cerca de 5 mil novos malwares sendo criados todos os dias para usuários Android.
@@ -150,7 +154,8 @@ O Android é muito popular entre empresas de tecnologia que buscam um software p
 
 Clique [Android](https://www.android.com/intl/pt-BR_br/) 
 ## **Markdown**
-<BR />
+<img src="https://user-images.githubusercontent.com/77402918/104950964-617aa880-59a0-11eb-9bb2-d601e3b1c9af.png" width="150px">
+<br />
 Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples .
 
 Clique [Markdown](https://daringfireball.net/projects/markdown/) 
