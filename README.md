@@ -3,7 +3,7 @@
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
     - [Android Studio](#android-studio)<br/>
     - [Visual Studio](#visual-studio)<br/>
-        - [Extensões](#extensoes)
+        - [Extensões](#extensões)
             - [Bracket Pair Colorizer](#bracket-pair-colorizer)
             - [Code Runner](#code-runner)
             - [Eva Theme](#eva-theme)
