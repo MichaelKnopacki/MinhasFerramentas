@@ -161,5 +161,12 @@ Markdown é uma linguagem simples de marcação originalmente criada por John Gr
 <br />
 
 Clique [Markdown](https://daringfireball.net/projects/markdown/) 
+<br />
+<br />
 
+------------------------------------------
 _**Create by Michael Carlos Knopacki**_
+
+------------------------------------------
+
+
