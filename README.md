@@ -30,9 +30,9 @@ Segue abaixo a descrição das principais ferramentas  que serão utilizadas dur
 
 Android Studio é um ambiente de desenvolvimento integrado (IDE) para desenvolver para a plataforma Android. Foi anunciado em 16 de Maio de 2013 na conferência Google I/O. Android Studio é disponibilizado gratuitamente sob a Licença Apache 2.0.
 
-Android Studio estava em estágio de acesso antecipado desde a versão 0.1 em Maio de 2013, entrando então em estágio beta a partir da versão 0.8 que foi lançada em Junho de 2014.A primeira compilação estável foi lançada em Dezembro de 2014, começando da versão 1.0.
+Android Studio estava em estágio de acesso antecipado desde a versão 0.1 em Maio de 2013, entrando então em estágio beta a partir da versão 0.8 que foi lançada em Junho de 2014. A primeira compilação estável foi lançada em Dezembro de 2014, começando da versão 1.0.
 
-Baseado no software IntelliJ IDEA de JetBrains, Android Studio foi feito especificamente para o desenvolvimento para Android.Está disponível para download em Windows, Mac OS X e Linux, e substituiu Eclipse Android Development Tools (ADT) como a IDE primária do Google de desenvolvimento nativo para Android.
+Baseado no software IntelliJ IDEA de JetBrains, Android Studio foi feito especificamente para o desenvolvimento para Android. Está disponível para download em Windows, Mac OS X e Linux, e substituiu Eclipse Android Development Tools (ADT) como a IDE primária do Google de desenvolvimento nativo para Android.
 
 Clique [Android Studio](https://developer.android.com/studio)
 
@@ -144,7 +144,7 @@ Clique [Java](https://www.java.com/pt-BR/)
 ## **Android**
 <img src="https://user-images.githubusercontent.com/77402918/104950527-9803f380-599f-11eb-8fc6-c3d4dc3ccfd4.png" width="150px">
 <br />
-Android é um sistema operacional (SO) baseado no núcleo Linux, desenvolvido por um consórcio de desenvolvedores conhecido como Open Handset Alliance, sendo o principal colaborador o Google.[8] Com uma interface de usuário baseada na manipulação direta, o Android é projetado principalmente para dispositivos móveis com tela sensível ao toque como smartphones e tablets; com interface específica para TV, carros (Android Auto) e relógios de pulso (Android Wear). O sistema operacional utiliza-se da tela sensível ao toque para que o usuário possa manipular objetos virtuais, assim como um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sensível ao toque, também é utilizado em consoles de videogames, câmeras digitais, computadores e outros dispositivos eletrônicos.
+Android é um sistema operacional (SO) baseado no núcleo Linux, desenvolvido por um consórcio de desenvolvedores conhecido como Open Handset Alliance, sendo o principal colaborador o Google. Com uma interface de usuário baseada na manipulação direta, o Android é projetado principalmente para dispositivos móveis com tela sensível ao toque como smartphones e tablets; com interface específica para TV, carros (Android Auto) e relógios de pulso (Android Wear). O sistema operacional utiliza-se da tela sensível ao toque para que o usuário possa manipular objetos virtuais, assim como um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sensível ao toque, também é utilizado em consoles de videogames, câmeras digitais, computadores e outros dispositivos eletrônicos.
 
 O Android é o sistema operacional móvel mais utilizado do mundo, e, em 2013, possuía a maior percentagem das vendas mundiais de SO móveis.Dispositivos com o sistema Android vendem mais que eletrônicos com Windows, iOS e Mac OS X combinados, com vendas em 2012, 2013 e 2014 perto da base de computadores do mundo.Em julho de 2013, a loja de aplicativos Google Play possuía mais de 1 milhão de aplicativos disponíveis, baixados mais de 50 bilhões de vezes.Uma pesquisa com programadores entre abril e maio de 2013 revelou que 71% dos programadores para sistemas móveis desenvolviam para o Android.Na conferência anual Google I/O de 2014, a companhia revelou que existem mais de 1 bilhão de usuários Android ativos. Em junho de 2013, este número era de 538 milhões.O maior número de usuários no mundo também reflete no número de ataques de hackers no sistema, com cerca de 5 mil novos malwares sendo criados todos os dias para usuários Android.
 
@@ -157,5 +157,9 @@ Clique [Android](https://www.android.com/intl/pt-BR_br/)
 <img src="https://user-images.githubusercontent.com/77402918/104950964-617aa880-59a0-11eb-9bb2-d601e3b1c9af.png" width="150px">
 <br />
 Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples .
+<br />
+<br />
 
 Clique [Markdown](https://daringfireball.net/projects/markdown/) 
+
+_**Create by Michael Carlos Knopacki**_
