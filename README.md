@@ -164,6 +164,7 @@ Clique [Markdown](https://daringfireball.net/projects/markdown/)
 <br />
 <br />
 
+[Voltar ao Topo](#minhasferramentas)
 ------------------------------------------
 _**Create by Michael Carlos Knopacki**_
 
